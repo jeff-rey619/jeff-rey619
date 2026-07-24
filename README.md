@@ -30,12 +30,12 @@ Recently my focus has shifted toward **Applied AI**, where I'm building producti
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 
 ### 💻 Mobile and Desktop Stack
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react)
 
 ---
 
@@ -50,22 +50,22 @@ Recently my focus has shifted toward **Applied AI**, where I'm building producti
 
 ### 🤖 AI / ML
 
-![LLM](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-2563EB?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![LLM](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 
 ---
 
 ### 🗄 Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/MS_SQL-000000?style=for-the-badge)
+![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-000000?style=for-the-badge)
 
 ---
 
